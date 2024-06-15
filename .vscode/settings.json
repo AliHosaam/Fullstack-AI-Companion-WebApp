@@ -1,0 +1,28 @@
+{
+  "prisma-smart-formatter.typescript.defaultFormatter": "esbenp.prettier-vscode",
+  "prisma-smart-formatter.typescriptreact.defaultFormatter": "esbenp.prettier-vscode",
+  "prisma-smart-formatter.prisma.defaultFormatter": "Prisma.prisma",
+  "editor.fontFamily": "'DejaVu Sans Mono', 'Monospace', monospace",
+  "editor.fontLigatures": true,
+  "cSpell.words": [
+    "Andrés",
+    "cloudinary",
+    "clsx",
+    "cnmgkr",
+    "Copa",
+    "FIFA",
+    "Germain",
+    "Hernández",
+    "hookform",
+    "Iniesta",
+    "Liga",
+    "lucide",
+    "Masia",
+    "Messi",
+    "nextjs",
+    "prismadb",
+    "tailwindcss",
+    "trpc",
+    "Xavi"
+  ]
+}
